@@ -1,6 +1,6 @@
-##  Обо мне  <div>
-<img src="https://storage.yandexcloud.net/storage.yasno.media/nat-geo/images/2020/6/25/0fc978aba29e466e8eb4ffc946532d5e.max-2000x1000.jpg" alt="Фото" width="400" height="240" align="right">
-</div>
+##  Обо мне  
+<div><img src="https://storage.yandexcloud.net/storage.yasno.media/nat-geo/images/2020/6/25/0fc978aba29e466e8eb4ffc946532d5e.max-2000x1000.jpg" alt="Фото" width="400" height="240" align="right"></div>
+
   Привет! Меня зовут **Денис**, я — уже не молодой, но целеустремлённый специалист, который стремится развиваться в сфере **IT**.  
 Умею быстро адаптироваться к новым задачам, люблю работать в команде и довожу начатое до результата.
   Сейчас работаю Project Manager, но выполняю обязанности и бизнес-аналитика, и системного аналитика, и специалиста по техподдержке, и специалиста по кассовому обслуживанию. 
